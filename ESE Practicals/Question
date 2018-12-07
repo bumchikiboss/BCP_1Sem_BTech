@@ -1,0 +1,6 @@
+***** Questions *****
+=====================
+Q.1
+	Write a program to print sum, average of all numbers, smallest and largest element of an array.
+Q.2
+	Write a program that takes your full name as input and displays the abbreviations of the first and middle names except the last name which is displayed as it is. For example, if your name is Robert Brett Roser, then the output should be R.B.Roser.
