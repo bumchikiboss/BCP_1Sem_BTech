@@ -7,7 +7,7 @@ Aim : Write a program to print sum, average of all numbers, smallest and largest
 #include<stdio.h>
 #include<conio.h>
 
-void main()
+int main()
 {
 	int no_ele, sum = 0, avg, smallest, largest = 0, i;
 	/*	no_ele is for no of elements in the array
@@ -55,4 +55,5 @@ void main()
 	printf("The average of all the entered elements = %d\n", avg);
 	printf("The smallest element of all the entered elements = %d\n", smallest);
 	printf("The largest element of all the entered elements = %d\n", largest);
+	return 0;
 }
